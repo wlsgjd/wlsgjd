@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Profile
+## 💬 Profile
 - **Name**: *Jinhyeong, Choe* (1999.11.02)
 - **E-Mail:** wlsgjd@naver.com
 - **GitHub:** [wlsgjd](https://github.com/wlsgjd)
