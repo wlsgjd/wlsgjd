@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 ## 💬 Profile
 - **Name**: *Jinhyeong, Choe* (1999.11.02)
 - **E-Mail:** wlsgjd@naver.com
-- **GitHub:** [wlsgjd](https://github.com/wlsgjd)
 
-## Skills
+## 💻 Skills
 - **Reverse Engineering**
 - C/C++ Programming
 
-## Interests
+## ♥️ Interests
 - Anti-Cheat
 - Windows Internals
 
-## Careers
+## 💼 Careers
 - **[㈜넥슨코리아](https://www.nexon.com/)** 게임핵대응팀 (2024.08 ~ 2024.11)
 - **[㈜웰비아닷컴](https://www.wellbia.com/)** 게임 해킹툴 분석 (2021 ~ 2024)
 - **[㈜누리랩](https://www.nurilab.com/)** 응용 프로그램 분석 및 개발 (2020 ~ 2021)
