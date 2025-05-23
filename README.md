@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Profile
-- **Name**: *Jinhyeong, Choe* (1999.11.02)
+- **Name**: Jinhyeong Choe
+- **Birthdate**: 1999.11.02
 - **E-Mail:** wlsgjd@naver.com
 
 ## 💻 Skills
-- **Reverse Engineering**
+- Reverse Engineering
 - C/C++ Programming
 
 ## ♥️ Interests
-- Anti-Cheat
+- Online Game Hacking
+- Game Security (Anti-Cheat)
+- Code Virtualization & Obfuscation
 - Windows Internals
+- HyperVisor
 
 ## 💼 Career
 - **[㈜넥슨코리아](https://www.nexon.com/)** 게임핵대응팀 (2024.08 ~ 2024.11)
