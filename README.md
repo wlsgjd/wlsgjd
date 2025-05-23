@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./avatar6.gif)
+<p align="center"><img src="./avatar6.gif"></p>
 
 ## 💬 Profile
 - **Name**: Jinhyeong Choe
