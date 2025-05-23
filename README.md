@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./avatar6.gif)
+
 ## 💬 Profile
 - **Name**: Jinhyeong Choe
 - **Birthdate**: 1999.11.02
