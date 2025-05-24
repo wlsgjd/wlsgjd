@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center"><img src="./avatar6.gif"></p>
 
-## 💬 Profile
+## 🐱 Profile
 - **Name**: Jinhyeong Choe
 - **Birthdate**: 1999.11.02
 - **E-Mail:** wlsgjd@naver.com
